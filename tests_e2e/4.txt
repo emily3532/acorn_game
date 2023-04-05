@@ -1,0 +1,3 @@
+Game with fire but no water and a hole in the wall
+Tests walking out of boundary acts as a wall
+Tests walking into fire without water and game ending

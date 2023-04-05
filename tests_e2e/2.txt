@@ -1,0 +1,3 @@
+Game with teleports and lots of walls
+Tests teleports work and print message
+Tests that walking into walls prints message and doesn't add to count of moves/list of moves made

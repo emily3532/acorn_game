@@ -1,0 +1,2 @@
+Game with fire and water cells
+Tests the water counter and fire extinguishing works 

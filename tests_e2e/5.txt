@@ -1,0 +1,4 @@
+Game with different configuration, multiple teleports and different user input
+Tests different teleport pads
+Tests user input: e, q and ' ' (or incorrect input)
+Tests different board layout
